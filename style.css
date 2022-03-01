@@ -237,3 +237,14 @@ section .navigation li a:hover{
          padding: 0 5px;
      }
 }
+
+@media (max-width:391px){
+    section .content h2 {
+        font-size: 15vw;
+    }
+    section .content h2 span {
+        letter-spacing: 1px;
+        padding: 5px 5px;
+       
+    }
+}
